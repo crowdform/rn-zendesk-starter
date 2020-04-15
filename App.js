@@ -33,7 +33,7 @@ export default function App() {
           console.log(RNZendesk, "after");
         }}
       >
-        <Text>Great agins!!</Text>
+        <Text>Open Zendesk</Text>
       </TouchableOpacity>
     </View>
   );
